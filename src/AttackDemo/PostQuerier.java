@@ -1,6 +1,6 @@
-package AttackDemo;
+package attackDemo;
 
-import Utils.Point;
+import utils.Point;
 
 public interface PostQuerier {
 

@@ -1,11 +1,11 @@
-package AttackDemo;
+package attackDemo;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import Entropy.PFunctionSerie;
-import Utils.Point;
+import defenseExp.PFunctionSerie;
+import utils.Point;
 
 public class LocationHacker {
 

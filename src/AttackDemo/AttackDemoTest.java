@@ -1,4 +1,4 @@
-package AttackDemo;
+package attackDemo;
 
 import static org.junit.Assert.*;
 
@@ -6,10 +6,10 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-import Entropy.PFunctionSerie;
-import Entropy.StepPFunctionSerie;
-import Utils.GeoUtils;
-import Utils.Point;
+import defenseExp.PFunctionSerie;
+import defenseExp.StepPFunctionSerie;
+import utils.GeoUtils;
+import utils.Point;
 
 public class AttackDemoTest {
 

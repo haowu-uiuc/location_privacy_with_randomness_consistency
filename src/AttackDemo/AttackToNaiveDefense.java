@@ -1,4 +1,4 @@
-package AttackDemo;
+package attackDemo;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -7,12 +7,12 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import Entropy.PFunction;
-import Entropy.PFunctionSerie;
-import Entropy.ProbUtils;
-import Entropy.StepPFunctionSerie;
-import Utils.GeoUtils;
-import Utils.Point;
+import defenseExp.PFunction;
+import defenseExp.PFunctionSerie;
+import defenseExp.ProbUtils;
+import defenseExp.StepPFunctionSerie;
+import utils.GeoUtils;
+import utils.Point;
 
 public class AttackToNaiveDefense {
 

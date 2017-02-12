@@ -1,4 +1,4 @@
-package Utils;
+package utils;
 
 /**
  * The absolute error under defense. The average distance between a square

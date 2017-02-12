@@ -1,7 +1,7 @@
-package AttackDemo;
+package attackDemo;
 
-import Entropy.PFunctionSerie;
-import Utils.Point;
+import defenseExp.PFunctionSerie;
+import utils.Point;
 
 public class FakePostQuerier implements PostQuerier {
 

@@ -1,10 +1,10 @@
-package AttackDemo;
+package attackDemo;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import Utils.Point;
+import utils.Point;
 
 public class MapQuantizerTest {
 
